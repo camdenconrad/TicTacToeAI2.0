@@ -4,6 +4,7 @@ import java.util.ArrayList;
 // CARA - Composite Array of Nodes for Roots and Actions //
 
 /***
+ * CHAT GPT GENERATED DESC
  * The CARA data structure is a powerful representation that combines the characteristics of a tree with the functionality of an array.
  * It serves as the backbone for managing and organizing a complex system with multiple directions and dependencies,
  * akin to the roots of a tree that nourish and sustain its branches.

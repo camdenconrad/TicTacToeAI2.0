@@ -4,26 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9947376-c750-4c04-b446-835d52f42560" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/circle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/tic-tac-toe.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SSbGraph.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graphic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Image.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Line.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NodeButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Roots.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Substate.java" afterDir="false" />
+    <list default="true" id="a9947376-c750-4c04-b446-835d52f42560" name="Changes" comment="First commit - working version - No AI, only basic path finding algorithm">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Roots.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Roots.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,12 +90,24 @@
       <workItem from="1685564391349" duration="3924000" />
       <workItem from="1685573526972" duration="692000" />
       <workItem from="1685650904375" duration="14354000" />
-      <workItem from="1685671662241" duration="3373000" />
+      <workItem from="1685671662241" duration="4378000" />
     </task>
+    <task id="LOCAL-00001" summary="First commit - working version - No AI, only basic path finding algorithm">
+      <created>1685675153249</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685675153250</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit - working version - No AI, only basic path finding algorithm" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit - working version - No AI, only basic path finding algorithm" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

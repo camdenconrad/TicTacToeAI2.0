@@ -1,21 +1,7 @@
 import java.util.ArrayList;
 
 /***
- CARA - Connected Array-based Recursive Approach
-
- Description:
-
- CARA represents a Connected Array-based Recursive Approach that efficiently handles a network of interconnected elements. The acronym highlights the key features and characteristics of the code.
-
- C - Connected: The approach emphasizes the interconnected nature of the elements in the code. It recognizes the relationships and dependencies between nodes, enabling seamless navigation and traversal within the network. The code ensures that all nodes are connected and that the flow of information is maintained throughout the structure.
-
- A - Array-based: The code employs an array-based data structure to organize and manage the elements. By utilizing an ArrayList, the elements are efficiently stored, allowing for quick access and manipulation. The array-based approach provides a scalable and flexible foundation for handling the interconnected elements.
-
- R - Recursive: The code utilizes a recursive methodology to explore and process the interconnected elements. It employs recursive functions or methods to navigate through the network, diving deeper into substates or substructures. This recursive approach enables efficient traversal and analysis of the entire network, considering various paths and possibilities.
-
- A - Approach: CARA represents an approach or strategy to effectively handle the interconnected elements. It outlines a systematic and structured way of managing the nodes, ensuring comprehensive coverage and accurate results. The approach combines the array-based data structure and recursive methodology to create a cohesive and efficient solution.
-
- In summary, CARA (Connected Array-based Recursive Approach) encapsulates the code's essence by highlighting its connected nature, array-based data structure, recursive methodology, and strategic approach. Together, these aspects enable effective handling and exploration of the interconnected elements, providing a robust and reliable solution.
+ CARA - Connected Array-based Recursive Algorithm
  */
 public class Roots {
     public Node head;

@@ -4,15 +4,35 @@ import java.util.ArrayList;
 // CARA - Composite Array of Nodes for Roots and Actions //
 
 /***
- * The CARA data structure is a powerful representation that combines the characteristics of a tree with the functionality of an array. It serves as the backbone for managing and organizing a complex system with multiple directions and dependencies, akin to the roots of a tree that nourish and sustain its branches.
+ * The CARA data structure is a powerful representation that combines the characteristics of a tree with the functionality of an array.
+ * It serves as the backbone for managing and organizing a complex system with multiple directions and dependencies,
+ * akin to the roots of a tree that nourish and sustain its branches.
  * <p>
- * At its core, CARA acts as a tree-like structure that spans in multiple directions, branching out into various paths and possibilities. Each node within the CARA structure represents a specific state or configuration, capturing essential information and relationships. These nodes are interconnected, forming a cohesive tree that represents the entire system.
+ * At its core, CARA acts as a tree-like structure that spans in multiple directions,
+ * branching out into various paths and possibilities.
+ * Each node within the CARA structure represents a specific state or configuration,
+ * capturing essential information and relationships. These nodes are interconnected,
+ * forming a cohesive tree that represents the entire system.
  * <p>
- * The composite nature of CARA arises from its ability to seamlessly combine multiple components. The array-based implementation provides efficient storage and indexing, allowing for quick access and retrieval of nodes. This array acts as the foundation for the tree structure, enabling the organization of nodes in a meaningful and hierarchical manner.
+ * The composite nature of CARA arises from its ability to seamlessly combine multiple components.
+ * The array-based implementation provides efficient storage and indexing,
+ * allowing for quick access and retrieval of nodes.
+ * This array acts as the foundation for the tree structure,
+ * enabling the organization of nodes in a meaningful and hierarchical manner.
  * <p>
- * Similar to how the roots of a tree supplying vital nutrients and support to the entire plant, the CARA structure serves as the foundation that keeps everything running smoothly. It acts as a central hub, maintaining the connectivity and flow of information between different nodes and actions. As the roots of a tree anchor it firmly in the ground, CARA anchors the system, providing stability, coherence, and efficient management.
+ * Similar to how the roots of a tree supplying vital nutrients and support to the entire plant,
+ * the CARA structure serves as the foundation that keeps everything running smoothly.
+ * It acts as a central hub, maintaining the connectivity
+ * and flow of information between different nodes and actions.
+ * As the roots of a tree anchor it firmly in the ground,
+ * CARA anchors the system, providing stability, coherence, and efficient management.
  * <p>
- * By leveraging the CARA data structure, complex systems can be effectively represented, managed, and navigated. Its tree-like nature facilitates exploration in multiple directions, while the array-based foundation ensures efficient storage and retrieval. Just as the roots of a tree are crucial for its growth and sustenance, the CARA structure plays a vital role in supporting and maintaining the overall system, fostering its stability and functionality.
+ * By leveraging the CARA data structure, complex systems can be effectively represented,
+ * managed, and navigated. Its tree-like nature facilitates exploration in multiple directions,
+ * while the array-based foundation ensures efficient storage and retrieval.
+ * Just as the roots of a tree are crucial for its growth and sustenance,
+ * the CARA structure plays a vital role in supporting and maintaining the overall system,
+ * fostering its stability and functionality.
  */
 public class Roots {
     public Node head;

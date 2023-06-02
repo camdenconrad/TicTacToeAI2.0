@@ -90,7 +90,7 @@
       <workItem from="1685564391349" duration="3924000" />
       <workItem from="1685573526972" duration="692000" />
       <workItem from="1685650904375" duration="14354000" />
-      <workItem from="1685671662241" duration="4542000" />
+      <workItem from="1685671662241" duration="4861000" />
     </task>
     <task id="LOCAL-00001" summary="First commit - working version - No AI, only basic path finding algorithm">
       <created>1685675153249</created>
@@ -113,7 +113,21 @@
       <option name="project" value="LOCAL" />
       <updated>1685676183784</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Second commit">
+      <created>1685676209731</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685676209731</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Second commit">
+      <created>1685676216179</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685676216179</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
